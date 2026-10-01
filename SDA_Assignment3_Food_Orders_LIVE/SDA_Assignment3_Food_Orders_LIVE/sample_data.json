@@ -1,0 +1,57 @@
+[
+  {
+    "order_id": "FOOD2001",
+    "customer_id": "CUS301",
+    "restaurant_id": "REST101",
+    "item_id": "ITEM501",
+    "quantity": 2,
+    "amount": 520.0,
+    "payment_method": "UPI",
+    "order_status": "confirmed",
+    "source": "android_app"
+  },
+  {
+    "order_id": "FOOD2002",
+    "customer_id": "CUS302",
+    "restaurant_id": "REST102",
+    "item_id": "ITEM502",
+    "quantity": 1,
+    "amount": 315.0,
+    "payment_method": "credit_card",
+    "order_status": "confirmed",
+    "source": "website"
+  },
+  {
+    "order_id": "FOOD2003",
+    "customer_id": "CUS303",
+    "restaurant_id": "REST103",
+    "item_id": "ITEM503",
+    "quantity": 3,
+    "amount": 780.0,
+    "payment_method": "UPI",
+    "order_status": "preparing",
+    "source": "ios_app"
+  },
+  {
+    "order_id": "FOOD2004",
+    "customer_id": "CUS304",
+    "restaurant_id": "REST104",
+    "item_id": "ITEM504",
+    "quantity": 1,
+    "amount": 450.0,
+    "payment_method": "debit_card",
+    "order_status": "confirmed",
+    "source": "website"
+  },
+  {
+    "order_id": "FOOD2005",
+    "customer_id": "CUS305",
+    "restaurant_id": "REST105",
+    "item_id": "ITEM505",
+    "quantity": 2,
+    "amount": 690.0,
+    "payment_method": "cash_on_delivery",
+    "order_status": "pending",
+    "source": "android_app"
+  }
+]
